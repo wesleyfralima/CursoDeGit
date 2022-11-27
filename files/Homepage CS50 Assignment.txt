@@ -1,0 +1,13 @@
+- four different pages
+- 10 distinct html tags (except html, head, body, title)
+- use bootstrap
+- have a stylesheet using at least five different CSS properties
+- use javascript
+- provides compatibility with mobile
+
+
+STRUCTURE:
+home
+portfolio
+about
+contact
