@@ -1,4 +1,0 @@
-This is a test.
-
-Editando no testBranch.
-Testing the new testBranch.
